@@ -1,0 +1,2376 @@
+[
+   {
+      "category": "Système ABS",
+      "subcategory": "Module de commande ABS",
+      "symptoms": [
+         "Voyant ABS allumé",
+         "Pulsation de la pédale de frein"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le fusible ABS",
+            "result": [
+               "Grillé",
+               "Intact"
+            ]
+         },
+         {
+            "step": "Inspecter le câblage du module ABS",
+            "result": [
+               "Câblage défectueux",
+               "Câblage en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système ABS",
+      "subcategory": "Capteur de vitesse de roue ABS",
+      "symptoms": [
+         "Voyant ABS reste allumé",
+         "Compteur de vitesse erratique"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter les connexions du capteur de vitesse de roue",
+            "result": [
+               "Connexions desserrées",
+               "Connexions sécurisées"
+            ]
+         },
+         {
+            "step": "Vérifier le capteur de vitesse de roue pour débris ou dommages",
+            "result": [
+               "Sale/endommagé",
+               "Propre/intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système ABS",
+      "subcategory": "Servofrein",
+      "symptoms": [
+         "Pédale de frein spongieuse",
+         "Pédale de frein dure"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le tuyau de vide du servofrein",
+            "result": [
+               "Fuite",
+               "Intact"
+            ]
+         },
+         {
+            "step": "Tester la pression de vide du servofrein",
+            "result": [
+               "Pression de vide faible",
+               "Pression de vide normale"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système ABS",
+      "subcategory": "Étrier de frein",
+      "symptoms": [
+         "Freinage tirant d'un côté",
+         "Frein qui traîne"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter l'étrier de frein pour fuites",
+            "result": [
+               "Fuite de liquide",
+               "Aucune fuite"
+            ]
+         },
+         {
+            "step": "Vérifier le fonctionnement du piston de l'étrier de frein",
+            "result": [
+               "Piston bloqué",
+               "Piston se déplaçant librement"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système ABS",
+      "subcategory": "Flexible de frein",
+      "symptoms": [
+         "Fuite de liquide de frein",
+         "Pédale de frein molle"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le flexible de frein pour fissures ou fuites",
+            "result": [
+               "Flexible fissuré/fuyant",
+               "Flexible intact"
+            ]
+         },
+         {
+            "step": "Tester le flexible de frein sous pression",
+            "result": [
+               "Échec du test de pression",
+               "Réussite du test de pression"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système ABS",
+      "subcategory": "Maître-cylindre de frein",
+      "symptoms": [
+         "Pédale de frein spongieuse",
+         "Fuites de liquide de frein"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le niveau de liquide de frein dans le maître-cylindre",
+            "result": [
+               "Niveau de liquide bas",
+               "Niveau de liquide normal"
+            ]
+         },
+         {
+            "step": "Inspecter le maître-cylindre pour fuites ou dommages",
+            "result": [
+               "Fuyant/endommagé",
+               "Intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système ABS",
+      "subcategory": "Plaquette de frein",
+      "symptoms": [
+         "Freins qui couinent",
+         "Pulsation de la pédale de frein"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier l'épaisseur des plaquettes de frein",
+            "result": [
+               "Plaquettes usées",
+               "Épaisseur suffisante des plaquettes"
+            ]
+         },
+         {
+            "step": "Inspecter l'état des plaquettes de frein",
+            "result": [
+               "Plaquettes usées/endommagées",
+               "Plaquettes en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système ABS",
+      "subcategory": "Disque de frein",
+      "symptoms": [
+         "Pulsation de la pédale de frein",
+         "Vibration du volant"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Mesurer l'épaisseur du disque de frein",
+            "result": [
+               "Disque fin",
+               "Épaisseur suffisante du disque"
+            ]
+         },
+         {
+            "step": "Inspecter le disque de frein pour rayures ou voilage",
+            "result": [
+               "Disque rayé/voilé",
+               "Disque lisse"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système ABS",
+      "subcategory": "Mâchoire et tambour de frein",
+      "symptoms": [
+         "Pédale de frein spongieuse",
+         "Frein qui traîne"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter l'usure des mâchoires de frein",
+            "result": [
+               "Mâchoires usées",
+               "Mâchoires en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier le tambour de frein pour rayures ou fissures",
+            "result": [
+               "Tambour rayé/fissuré",
+               "Tambour lisse"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de climatisation",
+      "subcategory": "Compresseur de climatisation",
+      "symptoms": [
+         "Pas d'air froid des bouches",
+         "Bruit fort lorsque la climatisation est allumée"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le fonctionnement de l'embrayage du compresseur de climatisation",
+            "result": [
+               "Embrayage ne s'engage pas",
+               "Embrayage s'engage correctement"
+            ]
+         },
+         {
+            "step": "Inspecter le compresseur de climatisation pour fuites ou dommages",
+            "result": [
+               "Compresseur fuyant/endommagé",
+               "Compresseur intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de climatisation",
+      "subcategory": "Condenseur de climatisation",
+      "symptoms": [
+         "Air tiède des bouches de climatisation",
+         "Système de climatisation ne refroidit pas"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le condenseur de climatisation pour débris ou obstruction",
+            "result": [
+               "Débris/obstruction présents",
+               "Condenseur propre/dégagé"
+            ]
+         },
+         {
+            "step": "Vérifier les fuites dans le condenseur de climatisation",
+            "result": [
+               "Condenseur fuyant",
+               "Aucune fuite"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de climatisation",
+      "subcategory": "Évaporateur de climatisation",
+      "symptoms": [
+         "Odeur de moisi des bouches",
+         "Flux d'air faible des bouches"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter l'évaporateur de climatisation pour accumulation de moisissure",
+            "result": [
+               "Moisissure présente",
+               "Évaporateur propre"
+            ]
+         },
+         {
+            "step": "Vérifier le capteur de température de l'évaporateur de climatisation",
+            "result": [
+               "Capteur défectueux",
+               "Capteur en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de climatisation",
+      "subcategory": "Recharge de climatisation",
+      "symptoms": [
+         "Air tiède des bouches",
+         "Pression basse du système de climatisation"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier la pression du système de climatisation avec un manomètre",
+            "result": [
+               "Pression basse",
+               "Pression normale"
+            ]
+         },
+         {
+            "step": "Inspecter les fuites dans le système de climatisation",
+            "result": [
+               "Système fuyant",
+               "Aucune fuite"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de climatisation",
+      "subcategory": "Diagnostic de climatisation",
+      "symptoms": [
+         "Système de climatisation ne fonctionne pas",
+         "Bruit inhabituel du système de climatisation"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Effectuer un scan diagnostic du système de climatisation",
+            "result": [
+               "Codes d'erreur présents",
+               "Aucun code d'erreur"
+            ]
+         },
+         {
+            "step": "Vérifier le bon fonctionnement des composants du système de climatisation",
+            "result": [
+               "Défaillance d'un composant",
+               "Composants fonctionnant correctement"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de climatisation",
+      "subcategory": "Filtre d'habitacle",
+      "symptoms": [
+         "Odeur de moisi des bouches",
+         "Débit d'air réduit des bouches"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter et remplacer le filtre d'habitacle",
+            "result": [
+               "Filtre sale/colmaté",
+               "Filtre propre/neuf"
+            ]
+         },
+         {
+            "step": "Vérifier la présence de débris dans l'admission d'air de l'habitacle",
+            "result": [
+               "Débris dans l'admission",
+               "Admission dégagée"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de climatisation",
+      "subcategory": "Moteur de ventilateur de chauffage",
+      "symptoms": [
+         "Pas d'air des bouches",
+         "Bruit fort du système CVC"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester le fonctionnement du moteur de ventilateur",
+            "result": [
+               "Moteur ne tourne pas",
+               "Moteur fonctionne correctement"
+            ]
+         },
+         {
+            "step": "Inspecter le moteur de ventilateur pour débris ou dommages",
+            "result": [
+               "Débris/dommages présents",
+               "Moteur propre/intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de climatisation",
+      "subcategory": "Résistance de moteur de ventilateur de chauffage",
+      "symptoms": [
+         "Vitesse de ventilateur CVC erratique",
+         "Ventilateur CVC ne fonctionne qu'à certains réglages"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la continuité de la résistance de moteur de ventilateur",
+            "result": [
+               "Défaillance de la résistance",
+               "Résistance fonctionnant correctement"
+            ]
+         },
+         {
+            "step": "Inspecter la résistance pour surchauffe ou marques de brûlure",
+            "result": [
+               "Résistance surchauffée/brûlée",
+               "Résistance en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de refroidissement",
+      "subcategory": "Liquide de refroidissement/Antigel",
+      "symptoms": [
+         "Surchauffe du moteur",
+         "Fuites de liquide de refroidissement sous le véhicule"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le niveau et l'état du liquide de refroidissement",
+            "result": [
+               "Liquide bas/sale",
+               "Liquide suffisant/propre"
+            ]
+         },
+         {
+            "step": "Inspecter le radiateur et les durites pour fuites",
+            "result": [
+               "Radiateur/durites fuyants",
+               "Aucune fuite"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de refroidissement",
+      "subcategory": "Diagnostic de fuite de liquide de refroidissement",
+      "symptoms": [
+         "Flaque de liquide de refroidissement visible sous le véhicule",
+         "Odeur de liquide de refroidissement dans l'habitacle"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester le système de refroidissement sous pression",
+            "result": [
+               "Système fuyant",
+               "Aucune fuite détectée"
+            ]
+         },
+         {
+            "step": "Inspecter le radiateur, les durites et la pompe à eau pour fuites",
+            "result": [
+               "Composant fuyant trouvé",
+               "Composants intacts"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de refroidissement",
+      "subcategory": "Système de refroidissement du moteur",
+      "symptoms": [
+         "Surchauffe du moteur",
+         "Jauge de température dans la zone rouge"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le radiateur pour obstruction ou dommages",
+            "result": [
+               "Radiateur obstrué/endommagé",
+               "Radiateur dégagé/intact"
+            ]
+         },
+         {
+            "step": "Tester le fonctionnement du thermostat",
+            "result": [
+               "Thermostat défectueux",
+               "Thermostat fonctionnant correctement"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de refroidissement",
+      "subcategory": "Radiateur de chauffage",
+      "symptoms": [
+         "Pas de chauffage des bouches",
+         "Odeur sucrée dans l'habitacle"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le radiateur de chauffage pour fuites",
+            "result": [
+               "Radiateur de chauffage fuyant",
+               "Aucune fuite détectée"
+            ]
+         },
+         {
+            "step": "Vérifier le débit de liquide de refroidissement à travers le radiateur de chauffage",
+            "result": [
+               "Débit restreint",
+               "Bon débit de liquide de refroidissement"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de refroidissement",
+      "subcategory": "Durite de chauffage",
+      "symptoms": [
+         "Odeur de liquide de refroidissement dans l'habitacle",
+         "Fuite de liquide de refroidissement visible sous le véhicule"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter les connexions des durites de chauffage",
+            "result": [
+               "Connexions desserrées/endommagées",
+               "Connexions sécurisées/intactes"
+            ]
+         },
+         {
+            "step": "Tester les durites de chauffage sous pression",
+            "result": [
+               "Fuite de durite détectée",
+               "Aucune fuite trouvée"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de refroidissement",
+      "subcategory": "Radiateur/Ventilateur de refroidissement",
+      "symptoms": [
+         "Surchauffe du moteur",
+         "Climatisation ne refroidit pas au ralenti"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester le fonctionnement du ventilateur de radiateur",
+            "result": [
+               "Ventilateur ne tourne pas",
+               "Ventilateur fonctionne correctement"
+            ]
+         },
+         {
+            "step": "Inspecter le moteur et le relais du ventilateur de radiateur",
+            "result": [
+               "Moteur/relais défectueux",
+               "Moteur/relais fonctionnant correctement"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de refroidissement",
+      "subcategory": "Durite de radiateur",
+      "symptoms": [
+         "Fuite de liquide de refroidissement sous le véhicule",
+         "Usure/fissures visibles sur les durites"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter les durites de radiateur pour dommages",
+            "result": [
+               "Durites endommagées trouvées",
+               "Durites en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier les connexions des durites pour fuites",
+            "result": [
+               "Connexions fuyantes",
+               "Aucune fuite détectée"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de refroidissement",
+      "subcategory": "Pompe à eau",
+      "symptoms": [
+         "Surchauffe du moteur",
+         "Fuite de liquide de refroidissement près de l'avant du moteur"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter la pompe à eau pour fuites",
+            "result": [
+               "Pompe fuyante",
+               "Aucune fuite détectée"
+            ]
+         },
+         {
+            "step": "Tester le bon fonctionnement de la pompe à eau",
+            "result": [
+               "Pompe défectueuse",
+               "Pompe fonctionnant correctement"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Engrenages coniques",
+      "symptoms": [
+         "Bruit de sifflement de la transmission",
+         "Difficulté à changer de vitesse"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter les engrenages coniques pour usure ou dommages",
+            "result": [
+               "Engrenages usés/endommagés",
+               "Engrenages en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier le niveau et l'état de l'huile de transmission",
+            "result": [
+               "Huile basse/sale",
+               "Huile suffisante/propre"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Différentiel central",
+      "symptoms": [
+         "Véhicule qui se bloque dans les virages",
+         "Bruit de la transmission en tournant"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le liquide du différentiel central",
+            "result": [
+               "Liquide bas/sale",
+               "Liquide propre/suffisant"
+            ]
+         },
+         {
+            "step": "Vérifier le jeu excessif dans le différentiel central",
+            "result": [
+               "Jeu excessif détecté",
+               "Aucun jeu excessif"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Câble d'embrayage",
+      "symptoms": [
+         "Pédale d'embrayage semble lâche",
+         "Difficulté à engager les vitesses"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le câble d'embrayage pour effilochage ou étirement",
+            "result": [
+               "Câble endommagé",
+               "Câble intact"
+            ]
+         },
+         {
+            "step": "Ajuster la tension du câble d'embrayage",
+            "result": [
+               "Tension incorrecte",
+               "Tension correcte"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Cylindre récepteur d'embrayage",
+      "symptoms": [
+         "Pédale d'embrayage spongieuse",
+         "Fuite de liquide près de la pédale d'embrayage"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le cylindre récepteur d'embrayage pour fuites",
+            "result": [
+               "Cylindre fuyant",
+               "Aucune fuite détectée"
+            ]
+         },
+         {
+            "step": "Inspecter le niveau et l'état du liquide d'embrayage",
+            "result": [
+               "Liquide bas/sale",
+               "Liquide suffisant/propre"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Différentiel",
+      "symptoms": [
+         "Bruit de sifflement de l'arrière",
+         "Vibration du véhicule à haute vitesse"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le niveau et l'état du liquide de différentiel",
+            "result": [
+               "Liquide bas/sale",
+               "Liquide propre/suffisant"
+            ]
+         },
+         {
+            "step": "Vérifier l'usure des roulements de différentiel",
+            "result": [
+               "Roulements usés",
+               "Roulements en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Essieu rigide",
+      "symptoms": [
+         "Bruit d'essieu en tournant",
+         "Véhicule penche d'un côté"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter l'essieu rigide pour fissures ou déformation",
+            "result": [
+               "Essieu fissuré/déformé",
+               "Essieu intact"
+            ]
+         },
+         {
+            "step": "Vérifier l'usure des roulements d'essieu",
+            "result": [
+               "Roulements usés",
+               "Roulements en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Essieu rigide",
+      "symptoms": [
+         "Véhicule rebondit sur les bosses",
+         "Bruit fort de l'essieu arrière"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter l'essieu rigide pour fissures ou dommages",
+            "result": [
+               "Essieu fissuré/endommagé",
+               "Essieu en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier l'usure des roulements d'essieu",
+            "result": [
+               "Roulements usés",
+               "Roulements en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Boîte automatique",
+      "symptoms": [
+         "Transmission qui patine",
+         "Retard à l'engagement des vitesses"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le niveau et l'état du liquide de transmission",
+            "result": [
+               "Liquide bas/sale",
+               "Liquide propre/suffisant"
+            ]
+         },
+         {
+            "step": "Inspecter la transmission pour fuites",
+            "result": [
+               "Transmission fuyante",
+               "Aucune fuite détectée"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Joint universel",
+      "symptoms": [
+         "Vibration de la ligne d'arbre",
+         "Bruit de claquement lors du changement de vitesse"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le joint universel pour usure ou jeu",
+            "result": [
+               "Usure/jeu détecté",
+               "Joint en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier l'alignement de la ligne d'arbre",
+            "result": [
+               "Ligne d'arbre mal alignée",
+               "Ligne d'arbre correctement alignée"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Accouplement visqueux",
+      "symptoms": [
+         "Véhicule qui se bloque dans les virages",
+         "Bruit de la transmission en tournant"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester le fonctionnement de l'accouplement visqueux",
+            "result": [
+               "Défaillance de l'accouplement",
+               "Accouplement fonctionnant correctement"
+            ]
+         },
+         {
+            "step": "Inspecter le liquide de l'accouplement visqueux",
+            "result": [
+               "Liquide bas/sale",
+               "Liquide propre/suffisant"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Remplacement de batterie",
+      "symptoms": [
+         "Démarrage lent du moteur",
+         "Bruit de cliquetis au démarrage"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la tension de la batterie",
+            "result": [
+               "Tension basse",
+               "Tension suffisante"
+            ]
+         },
+         {
+            "step": "Inspecter les bornes de batterie pour corrosion",
+            "result": [
+               "Bornes corrodées",
+               "Bornes propres"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Système de charge",
+      "symptoms": [
+         "Voyant de batterie allumé",
+         "Phares faibles"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la sortie de l'alternateur",
+            "result": [
+               "Sortie basse",
+               "Sortie normale"
+            ]
+         },
+         {
+            "step": "Vérifier la tension de la courroie d'alternateur",
+            "result": [
+               "Courroie lâche",
+               "Courroie correctement tendue"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Diagnostic du voyant moteur",
+      "symptoms": [
+         "Voyant moteur allumé",
+         "Performances moteur médiocres"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Scanner les codes de diagnostic (DTC)",
+            "result": [
+               "DTC présents",
+               "Aucun DTC"
+            ]
+         },
+         {
+            "step": "Vérifier les capteurs liés aux DTC",
+            "result": [
+               "Capteur défectueux",
+               "Capteur fonctionnant correctement"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Moteur de lève-vitre",
+      "symptoms": [
+         "Vitre ne bouge pas",
+         "Vitre bouge par intermittence"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester l'alimentation du moteur de lève-vitre",
+            "result": [
+               "Pas d'alimentation",
+               "Alimentation présente"
+            ]
+         },
+         {
+            "step": "Inspecter le mécanisme de lève-vitre pour dommages",
+            "result": [
+               "Mécanisme endommagé",
+               "Mécanisme intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Mécanisme de lève-vitre",
+      "symptoms": [
+         "Vitre sortie de sa piste",
+         "Vitre bloquée dans une position"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le mécanisme de lève-vitre",
+            "result": [
+               "Mécanisme bloqué",
+               "Mécanisme fonctionnant"
+            ]
+         },
+         {
+            "step": "Vérifier l'alignement de la vitre dans les pistes",
+            "result": [
+               "Vitre mal alignée",
+               "Vitre correctement alignée"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Ampoule de phare",
+      "symptoms": [
+         "Phares ne fonctionnent pas",
+         "Phare faible"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le filament de l'ampoule de phare",
+            "result": [
+               "Filament grillé",
+               "Filament intact"
+            ]
+         },
+         {
+            "step": "Vérifier la douille de phare pour corrosion",
+            "result": [
+               "Douille corrodée",
+               "Douille propre"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Tête de distributeur d'allumage",
+      "symptoms": [
+         "Ratés d'allumage du moteur",
+         "Difficulté à démarrer le moteur"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter la tête de distributeur pour fissures ou traces de carbone",
+            "result": [
+               "Tête fissurée/endommagée",
+               "Tête en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier l'usure du rotor de distributeur",
+            "result": [
+               "Rotor usé",
+               "Rotor en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Jeu de fils d'allumage",
+      "symptoms": [
+         "Ratés d'allumage du moteur",
+         "Économie de carburant médiocre"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la continuité des fils d'allumage",
+            "result": [
+               "Fil cassé",
+               "Fils intacts"
+            ]
+         },
+         {
+            "step": "Inspecter les bottes de bougie pour dommages",
+            "result": [
+               "Bottes endommagées",
+               "Bottes intactes"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Actionneur de verrouillage de porte",
+      "symptoms": [
+         "Verrouillage de porte ne répond pas",
+         "Bruit de cliquetis de la porte"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester l'alimentation de l'actionneur de verrouillage",
+            "result": [
+               "Pas d'alimentation",
+               "Alimentation présente"
+            ]
+         },
+         {
+            "step": "Inspecter le mécanisme de l'actionneur pour obstruction",
+            "result": [
+               "Mécanisme obstrué",
+               "Mécanisme dégagé"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Démarreur",
+      "symptoms": [
+         "Le moteur ne démarre pas",
+         "Bruit de cliquetis à la rotation de la clé"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester le solénoïde du démarreur",
+            "result": [
+               "Solénoïde défectueux",
+               "Solénoïde fonctionnant correctement"
+            ]
+         },
+         {
+            "step": "Inspecter l'usure des balais du démarreur",
+            "result": [
+               "Balais usés",
+               "Balais en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Pompe de lave-glace",
+      "symptoms": [
+         "Pas de jet de liquide de lave-glace",
+         "Jet de liquide de lave-glace faible"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester l'alimentation de la pompe de lave-glace",
+            "result": [
+               "Pas d'alimentation",
+               "Alimentation présente"
+            ]
+         },
+         {
+            "step": "Inspecter la pompe de lave-glace pour obstructions ou dommages",
+            "result": [
+               "Pompe obstruée/endommagée",
+               "Pompe propre/intacte"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Moteur d'essuie-glace",
+      "symptoms": [
+         "Essuie-glaces ne fonctionnent pas",
+         "Essuie-glaces fonctionnent par intermittence"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester l'alimentation du moteur d'essuie-glace",
+            "result": [
+               "Pas d'alimentation",
+               "Alimentation présente"
+            ]
+         },
+         {
+            "step": "Inspecter la tringlerie du moteur d'essuie-glace pour usure",
+            "result": [
+               "Tringlerie usée",
+               "Tringlerie intacte"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système d'émissions",
+      "subcategory": "Vanne de purge du canister",
+      "symptoms": [
+         "Voyant moteur allumé",
+         "Ralenti irrégulier"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester le fonctionnement de la vanne de purge du canister",
+            "result": [
+               "Vanne bloquée ouverte/fermée",
+               "Vanne fonctionne correctement"
+            ]
+         },
+         {
+            "step": "Vérifier les fuites dans les durites de la vanne de purge",
+            "result": [
+               "Durites fuyantes",
+               "Aucune fuite"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système d'émissions",
+      "subcategory": "Pot catalytique",
+      "symptoms": [
+         "Odeur d'œuf pourri à l'échappement",
+         "Voyant moteur allumé"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le pot catalytique pour dommages physiques",
+            "result": [
+               "Pot catalytique endommagé",
+               "Pot catalytique intact"
+            ]
+         },
+         {
+            "step": "Vérifier l'efficacité du pot catalytique",
+            "result": [
+               "Efficacité faible",
+               "Efficacité élevée"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système d'émissions",
+      "subcategory": "Canister de charbon actif",
+      "symptoms": [
+         "Odeur de carburant provenant du véhicule",
+         "Voyant moteur allumé"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la vanne de purge du canister de charbon",
+            "result": [
+               "Vanne bloquée ouverte/fermée",
+               "Vanne fonctionne correctement"
+            ]
+         },
+         {
+            "step": "Inspecter le canister pour fissures ou dommages",
+            "result": [
+               "Canister fissuré/endommagé",
+               "Canister intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système d'émissions",
+      "subcategory": "Collecteur d'échappement",
+      "symptoms": [
+         "Bruit d'échappement fort",
+         "Odeur d'échappement dans l'habitacle"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le collecteur d'échappement pour fissures ou fuites",
+            "result": [
+               "Collecteur fissuré/fuyant",
+               "Collecteur intact"
+            ]
+         },
+         {
+            "step": "Vérifier le joint du collecteur d'échappement pour fuites",
+            "result": [
+               "Joint fuyant",
+               "Joint en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système d'émissions",
+      "subcategory": "Joint de collecteur d'échappement",
+      "symptoms": [
+         "Bruit d'échappement fort",
+         "Fuites d'échappement visibles"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le joint du collecteur d'échappement pour fuites",
+            "result": [
+               "Joint fuyant",
+               "Joint en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier le serrage des boulons du collecteur d'échappement",
+            "result": [
+               "Boulons desserrés",
+               "Boulons serrés"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système d'émissions",
+      "subcategory": "Capteur de pression du réservoir de carburant",
+      "symptoms": [
+         "Voyant moteur allumé",
+         "Voyant de bouchon de carburant allumé"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester le capteur de pression du réservoir de carburant",
+            "result": [
+               "Capteur défectueux",
+               "Capteur fonctionnant correctement"
+            ]
+         },
+         {
+            "step": "Vérifier l'étanchéité du bouchon de réservoir de carburant",
+            "result": [
+               "Bouchon desserré",
+               "Bouchon étanche"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système d'émissions",
+      "subcategory": "Capteur de cliquetis",
+      "symptoms": [
+         "Cliquetis/ping du moteur",
+         "Économie de carburant médiocre"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester le fonctionnement du capteur de cliquetis",
+            "result": [
+               "Capteur défectueux",
+               "Capteur fonctionnant correctement"
+            ]
+         },
+         {
+            "step": "Rechercher des codes de ratés d'allumage du moteur",
+            "result": [
+               "Codes de ratés présents",
+               "Aucun code de raté"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système d'émissions",
+      "subcategory": "Capteur M.A.P.",
+      "symptoms": [
+         "Voyant moteur allumé",
+         "Ralenti irrégulier"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la tension du capteur M.A.P.",
+            "result": [
+               "Tension basse",
+               "Tension normale"
+            ]
+         },
+         {
+            "step": "Inspecter le tuyau de vide du capteur M.A.P.",
+            "result": [
+               "Tuyau fuyant",
+               "Tuyau intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système d'émissions",
+      "subcategory": "Sonde à oxygène",
+      "symptoms": [
+         "Voyant moteur allumé",
+         "Économie de carburant médiocre"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la tension de la sonde à oxygène",
+            "result": [
+               "Tension basse",
+               "Tension normale"
+            ]
+         },
+         {
+            "step": "Inspecter le câblage de la sonde à oxygène pour dommages",
+            "result": [
+               "Câblage endommagé",
+               "Câblage intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Arbre d'équilibrage",
+      "symptoms": [
+         "Vibration du moteur",
+         "Ralenti irrégulier"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter l'arbre d'équilibrage pour usure ou dommages",
+            "result": [
+               "Arbre usé/endommagé",
+               "Arbre en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier l'alignement de l'arbre d'équilibrage",
+            "result": [
+               "Arbre mal aligné",
+               "Arbre correctement aligné"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Pression de suralimentation",
+      "symptoms": [
+         "Perte de puissance",
+         "Retard de turbo"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier la pression de suralimentation avec un manomètre",
+            "result": [
+               "Pression de suralimentation basse",
+               "Pression de suralimentation normale"
+            ]
+         },
+         {
+            "step": "Inspecter l'intercooler pour fuites ou dommages",
+            "result": [
+               "Intercooler fuyant/endommagé",
+               "Intercooler intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Pompe d'injection diesel",
+      "symptoms": [
+         "Ratés d'allumage du moteur",
+         "Fumée noire à l'échappement"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la pression de la pompe d'injection diesel",
+            "result": [
+               "Pression basse",
+               "Pression normale"
+            ]
+         },
+         {
+            "step": "Inspecter les injecteurs diesel pour fuites ou obstructions",
+            "result": [
+               "Injecteurs fuyants/obstrués",
+               "Injecteurs propres/dans les tolérances"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Bougie de préchauffage diesel",
+      "symptoms": [
+         "Démarrage difficile par temps froid",
+         "Voyant de bougie de préchauffage reste allumé"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la résistance de la bougie de préchauffage",
+            "result": [
+               "Résistance élevée",
+               "Résistance normale"
+            ]
+         },
+         {
+            "step": "Inspecter la bougie de préchauffage pour accumulation de carbone",
+            "result": [
+               "Accumulation de carbone",
+               "Bougie propre"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Supports moteur",
+      "symptoms": [
+         "Mouvement excessif du moteur",
+         "Bruit de claquement à l'accélération"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter les supports moteur pour usure ou dommages",
+            "result": [
+               "Supports usés/endommagés",
+               "Supports en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier le serrage des boulons de fixation",
+            "result": [
+               "Boulons desserrés",
+               "Boulons serrés"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Soupape d'échappement",
+      "symptoms": [
+         "Ratés d'allumage du moteur",
+         "Ralenti irrégulier"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter la soupape d'échappement pour accumulation de carbone",
+            "result": [
+               "Accumulation sur la soupape",
+               "Soupape propre"
+            ]
+         },
+         {
+            "step": "Vérifier le jeu de soupape",
+            "result": [
+               "Jeu incorrect",
+               "Jeu correct"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Injecteur de carburant",
+      "symptoms": [
+         "Ratés d'allumage du moteur",
+         "Économie de carburant médiocre"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester le schéma de pulvérisation de l'injecteur de carburant",
+            "result": [
+               "Schéma de pulvérisation irrégulier",
+               "Schéma de pulvérisation uniforme"
+            ]
+         },
+         {
+            "step": "Inspecter l'injecteur pour fuites ou obstructions",
+            "result": [
+               "Injecteur fuyant/obstrué",
+               "Injecteur propre/dans les tolérances"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Vanne de régulation du ralenti",
+      "symptoms": [
+         "Vitesse de ralenti erratique",
+         "Calage au ralenti"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester le fonctionnement de la vanne IAC",
+            "result": [
+               "Vanne bloquée ouverte/fermée",
+               "Vanne fonctionne correctement"
+            ]
+         },
+         {
+            "step": "Nettoyer le corps de papillon et la vanne IAC",
+            "result": [
+               "Composants sales",
+               "Composants propres"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Soupape d'admission",
+      "symptoms": [
+         "Ratés d'allumage du moteur",
+         "Ralenti irrégulier"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter la soupape d'admission pour accumulation de carbone",
+            "result": [
+               "Accumulation sur la soupape",
+               "Soupape propre"
+            ]
+         },
+         {
+            "step": "Vérifier le jeu de soupape",
+            "result": [
+               "Jeu incorrect",
+               "Jeu correct"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Pompe à huile",
+      "symptoms": [
+         "Voyant d'avertissement de pression d'huile basse",
+         "Bruit de claquement du moteur"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la pression d'huile avec un manomètre",
+            "result": [
+               "Pression d'huile basse",
+               "Pression d'huile normale"
+            ]
+         },
+         {
+            "step": "Inspecter la pompe à huile pour usure ou dommages",
+            "result": [
+               "Pompe usée/endommagée",
+               "Pompe en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Segments de piston",
+      "symptoms": [
+         "Fumée bleue à l'échappement",
+         "Perte de puissance du moteur"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Effectuer un test de compression",
+            "result": [
+               "Compression basse",
+               "Bonne compression"
+            ]
+         },
+         {
+            "step": "Inspecter les segments de piston pour usure ou dommages",
+            "result": [
+               "Segments usés/endommagés",
+               "Segments en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Courroie de distribution",
+      "symptoms": [
+         "Ratés d'allumage du moteur",
+         "Le moteur ne démarre pas"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter la courroie de distribution pour usure ou dommages",
+            "result": [
+               "Courroie usée/endommagée",
+               "Courroie en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier l'alignement des repères de distribution",
+            "result": [
+               "Repères de distribution mal alignés",
+               "Repères correctement alignés"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Joint de cache-culbuteurs",
+      "symptoms": [
+         "Fuite d'huile autour du cache-culbuteurs",
+         "Odeur d'huile brûlée du compartiment moteur"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le joint de cache-culbuteurs pour fuites",
+            "result": [
+               "Joint fuyant",
+               "Joint en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier le serrage des boulons du cache-culbuteurs",
+            "result": [
+               "Boulons desserrés",
+               "Boulons serrés"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Courroie de ventilateur",
+      "symptoms": [
+         "Surchauffe du moteur",
+         "Bruit de couinement du compartiment moteur"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter la courroie de ventilateur pour coupures ou usure",
+            "result": [
+               "Courroie coupée/usée",
+               "Courroie en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier la tension et l'alignement de la courroie",
+            "result": [
+               "Courroie lâche/mal alignée",
+               "Courroie correctement tendue/alignée"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Klaxon",
+      "symptoms": [
+         "Pas de son lorsque le bouton de klaxon est enfoncé"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le fusible du klaxon",
+            "result": [
+               "Fusible grillé",
+               "Fusible intact"
+            ]
+         },
+         {
+            "step": "Tester le relais du klaxon",
+            "result": [
+               "Relais défectueux",
+               "Relais fonctionnant correctement"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système électrique",
+      "subcategory": "Charge de batterie",
+      "symptoms": [
+         "Voyant de batterie allumé",
+         "Tension basse"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la tension de la batterie",
+            "result": [
+               "Tension basse",
+               "Tension normale"
+            ]
+         },
+         {
+            "step": "Inspecter l'alternateur pour bon fonctionnement",
+            "result": [
+               "Alternateur défectueux",
+               "Alternateur fonctionnant correctement"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Composants du moteur",
+      "subcategory": "Courroie moteur",
+      "symptoms": [
+         "Problèmes de performance du moteur",
+         "Bruit de couinement du compartiment moteur"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter la courroie moteur pour coupures ou usure",
+            "result": [
+               "Courroie coupée/usée",
+               "Courroie en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier la tension et l'alignement de la courroie",
+            "result": [
+               "Courroie lâche/mal alignée",
+               "Courroie correctement tendue/alignée"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Direction",
+      "subcategory": "Bruit de direction",
+      "symptoms": [
+         "Bruit lors de la rotation du volant"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le niveau de liquide de direction assistée",
+            "result": [
+               "Niveau de liquide bas",
+               "Niveau de liquide suffisant"
+            ]
+         },
+         {
+            "step": "Vérifier la pompe et les durites de direction assistée pour fuites",
+            "result": [
+               "Pompe/durites fuyantes",
+               "Pompe et durites en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Arbre et pneus",
+      "symptoms": [
+         "Usure inégale des pneus",
+         "Vibration en conduisant"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter l'arbre pour équilibre et alignement",
+            "result": [
+               "Arbre déséquilibré/mal aligné",
+               "Arbre correctement équilibré/aligné"
+            ]
+         },
+         {
+            "step": "Vérifier la pression et l'état des pneus",
+            "result": [
+               "Pression basse/inappropriée",
+               "Pression et état des pneus corrects"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Compartiment moteur",
+      "subcategory": "Filtre à air",
+      "symptoms": [
+         "Performances moteur diminuées",
+         "Fumée noire à l'échappement"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le filtre à air pour obstructions ou saleté",
+            "result": [
+               "Filtre obstrué/sale",
+               "Filtre propre"
+            ]
+         },
+         {
+            "step": "Remplacer le filtre à air si nécessaire",
+            "result": [
+               "Remplacer le filtre",
+               "Filtre en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Compartiment moteur",
+      "subcategory": "Unité de commande du moteur (ECU)",
+      "symptoms": [
+         "Ratés d'allumage du moteur",
+         "Économie de carburant médiocre"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier l'ECU pour codes de défaut",
+            "result": [
+               "Codes de défaut présents",
+               "Aucun code de défaut"
+            ]
+         },
+         {
+            "step": "Inspecter le faisceau de câblage de l'ECU pour dommages",
+            "result": [
+               "Faisceau endommagé",
+               "Faisceau intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Compartiment moteur",
+      "subcategory": "Huile moteur",
+      "symptoms": [
+         "Voyant d'avertissement de pression d'huile basse",
+         "Bruit fort du moteur"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le niveau et l'état de l'huile moteur",
+            "result": [
+               "Huile basse/sale",
+               "Huile propre/suffisante"
+            ]
+         },
+         {
+            "step": "Inspecter les fuites d'huile",
+            "result": [
+               "Fuites d'huile présentes",
+               "Aucune fuite détectée"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Compartiment moteur",
+      "subcategory": "Filtre à carburant",
+      "symptoms": [
+         "Le moteur cale à haute vitesse",
+         "Accélération médiocre"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le filtre à carburant pour obstructions ou débris",
+            "result": [
+               "Filtre obstrué/sale",
+               "Filtre propre"
+            ]
+         },
+         {
+            "step": "Remplacer le filtre à carburant si nécessaire",
+            "result": [
+               "Remplacer le filtre",
+               "Filtre en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Compartiment moteur",
+      "subcategory": "Vanne PCV",
+      "symptoms": [
+         "Fuites d'huile",
+         "Ralenti irrégulier"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter la vanne PCV pour obstructions",
+            "result": [
+               "Vanne obstruée",
+               "Vanne dégagée"
+            ]
+         },
+         {
+            "step": "Vérifier la durite de la vanne PCV pour fissures",
+            "result": [
+               "Durite fissurée",
+               "Durite intacte"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Compartiment moteur",
+      "subcategory": "Corps de papillon",
+      "symptoms": [
+         "Accélération médiocre",
+         "Calage au ralenti"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le corps de papillon pour accumulation de carbone",
+            "result": [
+               "Accumulation présente",
+               "Corps de papillon propre"
+            ]
+         },
+         {
+            "step": "Tester le capteur de position de papillon (TPS)",
+            "result": [
+               "TPS défectueux",
+               "TPS fonctionnant correctement"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de carburant",
+      "subcategory": "Injecteur de carburant",
+      "symptoms": [
+         "Ratés d'allumage du moteur",
+         "Économie de carburant médiocre"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester le schéma de pulvérisation de l'injecteur de carburant",
+            "result": [
+               "Schéma de pulvérisation irrégulier",
+               "Schéma de pulvérisation uniforme"
+            ]
+         },
+         {
+            "step": "Inspecter l'injecteur pour fuites ou obstructions",
+            "result": [
+               "Injecteur fuyant/obstrué",
+               "Injecteur propre/dans les tolérances"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de carburant",
+      "subcategory": "Régulateur de pression de carburant",
+      "symptoms": [
+         "Le moteur cale",
+         "Fumée noire à l'échappement"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester le fonctionnement du régulateur de pression de carburant",
+            "result": [
+               "Défaillance du régulateur",
+               "Régulateur fonctionne correctement"
+            ]
+         },
+         {
+            "step": "Vérifier la pression de carburant au régulateur",
+            "result": [
+               "Pression basse/haute",
+               "Pression correcte"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de carburant",
+      "subcategory": "Pompe à carburant",
+      "symptoms": [
+         "Le moteur bafouille à haute vitesse",
+         "Perte de puissance"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la pression de la pompe à carburant",
+            "result": [
+               "Pression basse",
+               "Pression normale"
+            ]
+         },
+         {
+            "step": "Inspecter la pompe à carburant pour fuites ou dommages",
+            "result": [
+               "Pompe fuyante/endommagée",
+               "Pompe intacte"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de carburant",
+      "subcategory": "Réservoir de carburant",
+      "symptoms": [
+         "Odeur de carburant à l'intérieur du véhicule",
+         "Fuite de carburant visible sous le véhicule"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le réservoir de carburant pour fuites ou dommages",
+            "result": [
+               "Réservoir fuyant/endommagé",
+               "Réservoir en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier l'étanchéité du bouchon de remplissage de carburant",
+            "result": [
+               "Bouchon desserré/cassé",
+               "Bouchon étanche"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Système de carburant",
+      "subcategory": "Capteur de position de papillon",
+      "symptoms": [
+         "Le moteur hésite à l'accélération",
+         "Calage au ralenti"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la tension du capteur de position de papillon (TPS)",
+            "result": [
+               "Tension basse",
+               "Tension normale"
+            ]
+         },
+         {
+            "step": "Inspecter le câblage du TPS pour dommages ou corrosion",
+            "result": [
+               "Câblage endommagé/corrodé",
+               "Câblage intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Systèmes liquides",
+      "subcategory": "Liquide de frein",
+      "symptoms": [
+         "Pédale de frein molle",
+         "Voyant d'avertissement de frein allumé"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le niveau et l'état du liquide de frein",
+            "result": [
+               "Liquide bas/sale",
+               "Liquide propre/suffisant"
+            ]
+         },
+         {
+            "step": "Inspecter les conduites de frein pour fuites",
+            "result": [
+               "Conduites fuyantes",
+               "Conduites en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Systèmes liquides",
+      "subcategory": "Réservoir de liquide de refroidissement",
+      "symptoms": [
+         "Surchauffe du moteur",
+         "Voyant d'avertissement de liquide de refroidissement bas"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le niveau de liquide de refroidissement dans le réservoir",
+            "result": [
+               "Niveau de liquide de refroidissement bas",
+               "Niveau de liquide de refroidissement suffisant"
+            ]
+         },
+         {
+            "step": "Inspecter le réservoir pour fissures ou fuites",
+            "result": [
+               "Réservoir fissuré/fuyant",
+               "Réservoir intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Systèmes liquides",
+      "subcategory": "Liquide de direction assistée",
+      "symptoms": [
+         "Bruit de sifflement en tournant",
+         "Volant de direction rigide"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le niveau de liquide de direction assistée",
+            "result": [
+               "Niveau de liquide bas",
+               "Niveau de liquide suffisant"
+            ]
+         },
+         {
+            "step": "Inspecter les durites de direction assistée pour fuites",
+            "result": [
+               "Durites fuyantes",
+               "Durites en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Systèmes liquides",
+      "subcategory": "Radiateur",
+      "symptoms": [
+         "Surchauffe du moteur",
+         "Fuite de liquide de refroidissement"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le radiateur pour fuites ou dommages",
+            "result": [
+               "Radiateur fuyant/endommagé",
+               "Radiateur en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier l'étanchéité du bouchon de radiateur",
+            "result": [
+               "Bouchon desserré/cassé",
+               "Bouchon étanche"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Systèmes liquides",
+      "subcategory": "Liquide de lave-glace",
+      "symptoms": [
+         "Pas de jet de liquide de lave-glace",
+         "Jet de liquide de lave-glace faible"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le niveau de liquide de lave-glace",
+            "result": [
+               "Niveau de liquide bas",
+               "Niveau de liquide suffisant"
+            ]
+         },
+         {
+            "step": "Inspecter le fonctionnement de la pompe de liquide de lave-glace",
+            "result": [
+               "Pompe défectueuse",
+               "Pompe fonctionne correctement"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Maître-cylindre d'embrayage",
+      "symptoms": [
+         "Pédale d'embrayage molle",
+         "Embrayage qui patine"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le niveau de liquide d'embrayage",
+            "result": [
+               "Niveau de liquide bas",
+               "Niveau de liquide suffisant"
+            ]
+         },
+         {
+            "step": "Inspecter le maître-cylindre pour fuites",
+            "result": [
+               "Cylindre fuyant",
+               "Cylindre en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Convertisseur de couple",
+      "symptoms": [
+         "Vitesses qui patinent",
+         "Tremblement à l'accélération"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le convertisseur de couple pour fuites ou dommages",
+            "result": [
+               "Convertisseur fuyant/endommagé",
+               "Convertisseur en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier le niveau et l'état du liquide de transmission",
+            "result": [
+               "Liquide bas/sale",
+               "Liquide propre/suffisant"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Liquide de transmission",
+      "symptoms": [
+         "Vitesses qui patinent",
+         "Surchauffe de la transmission"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le niveau et l'état du liquide de transmission",
+            "result": [
+               "Liquide bas/sale",
+               "Liquide propre/suffisant"
+            ]
+         },
+         {
+            "step": "Inspecter le carter et les joints de transmission pour fuites",
+            "result": [
+               "Carter/joints fuyants",
+               "Carter/joints en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Filtre de transmission",
+      "symptoms": [
+         "Retard de passage des vitesses",
+         "Transmission qui patine"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le filtre de transmission pour obstructions ou débris",
+            "result": [
+               "Filtre obstrué/sale",
+               "Filtre propre"
+            ]
+         },
+         {
+            "step": "Remplacer le filtre de transmission si nécessaire",
+            "result": [
+               "Remplacer le filtre",
+               "Filtre en bon état"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Transmission",
+      "subcategory": "Solénoïde de transmission",
+      "symptoms": [
+         "Passage des vitesses erratique",
+         "Transmission ne passe pas les vitesses"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Tester la continuité électrique des solénoïdes de transmission",
+            "result": [
+               "Solénoïde défectueux",
+               "Solénoïde fonctionnant correctement"
+            ]
+         },
+         {
+            "step": "Inspecter le faisceau de câblage pour dommages ou corrosion",
+            "result": [
+               "Câblage endommagé/corrodé",
+               "Câblage intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Roues et pneus",
+      "subcategory": "Roulement de roue",
+      "symptoms": [
+         "Bruit de grincement des roues",
+         "Usure inégale des pneus"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier le jeu du roulement de roue",
+            "result": [
+               "Roulement desserré/usé",
+               "Roulement en bon état"
+            ]
+         },
+         {
+            "step": "Inspecter le roulement pour signes de dommages ou corrosion",
+            "result": [
+               "Roulement endommagé/corrodé",
+               "Roulement propre/intact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Roues et pneus",
+      "subcategory": "Système de surveillance de la pression des pneus (TPMS)",
+      "symptoms": [
+         "Voyant TPMS allumé",
+         "Pression de pneu basse"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Vérifier les pressions des pneus avec un manomètre",
+            "result": [
+               "Pression basse/haute",
+               "Pression correcte"
+            ]
+         },
+         {
+            "step": "Inspecter les capteurs TPMS pour dommages ou corrosion",
+            "result": [
+               "Capteurs endommagés/corrodés",
+               "Capteurs propres/intacts"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Roues et pneus",
+      "subcategory": "Moyeu de roue",
+      "symptoms": [
+         "Bruit de cliquetis ou de popping en tournant",
+         "Roue qui vacille"
+      ],
+      "diagnosis_steps": [
+         {
+            "step": "Inspecter le moyeu de roue pour jeu ou bruit de roulement",
+            "result": [
+               "Moyeu desserré/usé",
+               "Moyeu en bon état"
+            ]
+         },
+         {
+            "step": "Vérifier l'usure des roulements de roue",
+            "result": [
+               "Roulements usés",
+               "Roulements en bon état"
+            ]
+         }
+      ]
+   }
+]
